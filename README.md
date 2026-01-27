@@ -4,7 +4,7 @@ Repository used for '3720 Git Exercise' Assignment. Make sure you are signed in 
 
 <ins>Contributors List</ins>
 - cjacob5
-- 
+- [Clemson Username Here]
 
 | Clemson Username |    Git Username    | Group Number |
 | ---------------- | ------------------ | ------------ |
