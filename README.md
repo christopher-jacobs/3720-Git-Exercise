@@ -6,37 +6,38 @@ Repository used for '3720 Git Exercise' Assignment. Make sure you are signed in 
 - cjacob5
 - [Clemson Username Here]
 
-| Clemson Username |    Git Username    | Group Number |
-| ---------------- | ------------------ | ------------ |
-| cjacob5          | christopher-jacobs | None         |
-|                  |                    |              |
-|                  |                    |              |
-|                  |                    |              |
-|                  |                    |              |
-|                  |                    |              |
-|                  |                    |              |
-|                  |                    |              |
-|                  |                    |              |
-|                  |                    |              |
-|                  |                    |              |
-|                  |                    |              |
-|                  |                    |              |
-|                  |                    |              |
-|                  |                    |              |
-|                  |                    |              |
-|                  |                    |              |
-|                  |                    |              |
-|                  |                    |              |
-|                  |                    |              |
-|                  |                    |              |
-|                  |                    |              |
-|                  |                    |              |
-|                  |                    |              |
-|                  |                    |              |
-|                  |                    |              |
-|                  |                    |              |
-|                  |                    |              |
-|                  |                    |              |
-|                  |                    |              |
-|                  |                    |              |
-|                  |                    |              |
+| Clemson Username |    Git Username        | Group Number |
+| ---------------- | ------------------     | ------------ |
+| cjacob5          | christopher-jacobs     | None         |
+| lsuresh          | LokeshRamanathan-Suresh|  7           |
+|                  |                        |              |
+|                  |                        |              |
+|                  |                        |              |
+|                  |                        |              |
+|                  |                        |              |
+|                  |                        |              |
+|                  |                        |              |
+|                  |                        |              |
+|                  |                        |              |
+|                  |                        |              |
+|                  |                        |              |
+|                  |                        |              |
+|                  |                        |              |
+|                  |                        |              |
+|                  |                        |              |
+|                  |                        |              |
+|                  |                        |              |
+|                  |                        |              |
+|                  |                        |              |
+|                  |                        |              |
+|                  |                        |              |
+|                  |                        |              |
+|                  |                        |              |
+|                  |                        |              |
+|                  |                        |              |
+|                  |                        |              |
+|                  |                        |              |
+|                  |                        |              |
+|                  |                        |              |
+|                  |                        |              |
+|                  |                        |              |
