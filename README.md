@@ -5,6 +5,7 @@ Repository used for '3720 Git Exercise' Assignment. Make sure you are signed in 
 <ins>Contributors List</ins>
 
 - cjacob5
+- zschoon
 - ssamue2
 - arundle
 - irostro
@@ -41,6 +42,7 @@ Repository used for '3720 Git Exercise' Assignment. Make sure you are signed in 
 | Clemson Username | Git Username       | Group Number |
 | ---------------- | ------------------ | ------------ |
 | cjacob5          | christopher-jacobs | None         |
+| zschoon          | ZacharyMufasa      | 8            |
 | esantee          | ethansantee        | 2            |
 | ssamue2          | StephenSamuelson   | 2            |
 | arundle          | Andrew-Rundle      | 8            |
