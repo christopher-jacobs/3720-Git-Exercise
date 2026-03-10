@@ -2,7 +2,7 @@
 
 Repository used for '3720 Git Exercise' Assignment. Make sure you are signed in with GitHub before beginning this assignment. If you do not have Git installed, go [here](https://github.com/git-guides/install-git) and follow the installation instructions.
 
-<ins>Contributors List</ins>
+`<ins>`Contributors List`</ins>`
 
 - cjacob5
 - lvtruon
@@ -46,6 +46,7 @@ Repository used for '3720 Git Exercise' Assignment. Make sure you are signed in 
 | ---------------- | ------------------ | ------------ |
 | lsuresh          | LokeshRamanathan-Suresh|  7           |
 | cjacob5          | christopher-jacobs | None         |
+| rvummad          | RohitVummadi       | 7            |
 | lvtruon          | lee-truong-0402    | 9            |
 | anabelt          | Anabelt-hub        | 4            |
 | samt             |  samthomas1201     | Team 7       |
