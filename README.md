@@ -5,6 +5,7 @@ Repository used for '3720 Git Exercise' Assignment. Make sure you are signed in 
 <ins>Contributors List</ins>
 
 - cjacob5
+- anabelt
 - samt
 - zschoon
 - ssamue2
@@ -44,6 +45,7 @@ Repository used for '3720 Git Exercise' Assignment. Make sure you are signed in 
 | ---------------- | ------------------ | ------------ |
 | lsuresh          | LokeshRamanathan-Suresh|  7           |
 | cjacob5          | christopher-jacobs | None         |
+| anabelt          | Anabelt-hub        | 4            |
 | samt             |  samthomas1201     | Team 7       |
 | zstarne          | eftpmc             | 10           |
 | zschoon          | ZacharyMufasa      | 8            |
