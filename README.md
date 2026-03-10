@@ -4,6 +4,7 @@ Repository used for '3720 Git Exercise' Assignment. Make sure you are signed in 
 
 <ins>Contributors List</ins>
 - cjacob5
+- ppugh
 - cnowell
 - moreno5
 - lsmicha
@@ -31,7 +32,8 @@ Repository used for '3720 Git Exercise' Assignment. Make sure you are signed in 
 | Clemson Username |    Git Username    | Group Number |
 | ---------------- | ------------------ | ------------ |
 | cjacob5          | christopher-jacobs | None         |
-| kpatel8          |  krishhpatel       |  1           |
+| ppugh            | ppugh16            | Group 5      |
+| kpatel8          |  krishhpatel       | 1            |
 | cnowell          | CameronN8          | 14           |
 | moreno5          | jdmoreno04         | 5            |
 | lsmicha          | jameGains          | 1            |
