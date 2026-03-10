@@ -5,6 +5,7 @@ Repository used for '3720 Git Exercise' Assignment. Make sure you are signed in 
 `<ins>`Contributors List`</ins>`
 
 - cjacob5
+- ivanz
 - lvtruon
 - anabelt
 - samt
@@ -25,7 +26,6 @@ Repository used for '3720 Git Exercise' Assignment. Make sure you are signed in 
 - dmalloz
 - dalabra
 - cbhowar
-- [Clemson Username Here]
 - colburh
 - mphendr
 - sgrumel
@@ -46,6 +46,7 @@ Repository used for '3720 Git Exercise' Assignment. Make sure you are signed in 
 | ---------------- | ------------------ | ------------ |
 | lsuresh          | LokeshRamanathan-Suresh|  7           |
 | cjacob5          | christopher-jacobs | None         |
+| ivanz            | Sanchonq           | 13           |
 | rvummad          | RohitVummadi       | 7            |
 | lvtruon          | lee-truong-0402    | 9            |
 | anabelt          | Anabelt-hub        | 4            |
@@ -95,31 +96,4 @@ Repository used for '3720 Git Exercise' Assignment. Make sure you are signed in 
 | balabau          | balabau            | 3            |
 |                  |                    |              |
 |                  |                    |              |
-|                  |                    |              |
-|                  |                    |              |
-|                  |                    |              |
-|                  |                    |              |
-|                  |                    |              |
-|                  |                    |              |
-|                  |                    |              |
-|                  |                    |              |
-|                  |                    |              |
-|                  |                    |              |
-|                  |                    |              |
-|                  |                    |              |
-|                  |                    |              |
-|                  |                    |              |
-|                  |                    |              |
-|                  |                    |              |
-|                  |                    |              |
-|                  |                    |              |
-|                  |                    |              |
-|                  |                    |              |
-|                  |                    |              |
-|                  |                    |              |
-|                  |                    |              |
-|                  |                    |              |
-|                  |                    |              |
-|                  |                    |              |
-|                  |                    |              |
-|                  |                    |              |
+
