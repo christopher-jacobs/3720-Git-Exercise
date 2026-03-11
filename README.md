@@ -41,6 +41,7 @@ Repository used for '3720 Git Exercise' Assignment. Make sure you are signed in 
 - escasse
 - bjcarpe
 - balabau
+- jmcnnn
 
 | Clemson Username | Git Username       | Group Number |
 | ---------------- | ------------------ | ------------ |
@@ -94,6 +95,6 @@ Repository used for '3720 Git Exercise' Assignment. Make sure you are signed in 
 | bjcarpe          | BJCarpe22          | 11           |
 | bbarre4          | brian-barrett-33   | Team 3       |
 | balabau          | balabau            | 3            |
-|                  |                    |              |
+| jmcnnn           | JaseC1             | 13           |
 |                  |                    |              |
 
