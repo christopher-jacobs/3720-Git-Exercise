@@ -48,6 +48,7 @@ Repository used for '3720 Git Exercise' Assignment. Make sure you are signed in 
 | ---------------- | ------------------ | ------------ |
 | lsuresh          | LokeshRamanathan-Suresh|  7           |
 | cjacob5          | christopher-jacobs | None         |
+| nhusted          | Natehus5           | 14           |
 | ivanz            | Sanchonq           | 13           |
 | rvummad          | RohitVummadi       | 7            |
 | lvtruon          | lee-truong-0402    | 9            |
